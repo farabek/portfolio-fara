@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-fara/static/css/main.f5b4e6f1.css",
+    "main.js": "/portfolio-fara/static/js/main.06477d65.js",
+    "static/js/787.ec1f2ede.chunk.js": "/portfolio-fara/static/js/787.ec1f2ede.chunk.js",
+    "static/media/proj-1.png": "/portfolio-fara/static/media/proj-1.c47b2ea69a21282f89a6.png",
+    "static/media/proj-2.png": "/portfolio-fara/static/media/proj-2.a765b609f4b6ff5af3f1.png",
+    "static/media/photo.jpg": "/portfolio-fara/static/media/photo.10e1eb6f4cb717f9212e.jpg",
+    "static/media/icons-sprite.svg": "/portfolio-fara/static/media/icons-sprite.4397cd9c9a167c482e25ff733b95de44.svg",
+    "index.html": "/portfolio-fara/index.html",
+    "main.f5b4e6f1.css.map": "/portfolio-fara/static/css/main.f5b4e6f1.css.map",
+    "main.06477d65.js.map": "/portfolio-fara/static/js/main.06477d65.js.map",
+    "787.ec1f2ede.chunk.js.map": "/portfolio-fara/static/js/787.ec1f2ede.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b4e6f1.css",
+    "static/js/main.06477d65.js"
+  ]
+}
