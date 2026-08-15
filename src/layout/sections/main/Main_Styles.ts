@@ -14,8 +14,8 @@ const PhotoWrapper = styled.div`
   
   &::before {
     content: "";
-    width: 360px;
-    height: 470px;
+    width: 290px;
+    height: 374px;
     border: 5px solid ${theme.colors.accent};
     
     position: absolute;
@@ -23,8 +23,8 @@ const PhotoWrapper = styled.div`
     left: 24px;
     z-index: -1;
     @media ${theme.media.mobile} {
-      width: 314px;
-      height: 414px;
+      width: 244px;
+      height: 324px;
       top: -17px;
       left: 20px;
     }
@@ -37,14 +37,14 @@ const PhotoWrapper = styled.div`
 `
 
 const Photo = styled.img`
-    width: 350px;
-    height: 430px;
+    width: 280px;
+    height: 344px;
     object-fit: cover;
     margin-right: 20px;
   
   @media ${theme.media.mobile} {
-    width: 310px;
-    height: 380px;
+    width: 240px;
+    height: 294px;
   }
 `
 
