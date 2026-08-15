@@ -89,11 +89,25 @@ const SmallText = styled.h2`
   font-size: 14px;
 `
 
+const Education = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 24px;
+  font-size: 16px;
+
+  strong {
+    font-size: 20px;
+    color: ${theme.colors.accent};
+  }
+`
+
 export const S = {
     Main,
     PhotoWrapper,
     Photo,
     MainTitle,
     Name,
-    SmallText
+    SmallText,
+    Education
 }

@@ -14,7 +14,7 @@ export const Main: React.FC = () => {
           <div>
             <S.SmallText>Hi There</S.SmallText>
             <S.Name>
-              I am <span>Farhod Mukhamadiev</span>
+              I am <span>Farhod Muhamadiev</span>
             </S.Name>
             <S.MainTitle>
               <p>A Web Developer.</p>
@@ -27,6 +27,12 @@ export const Main: React.FC = () => {
                 }}
               />
             </S.MainTitle>
+            <S.Education>
+              <strong>Education</strong>
+              <span>School: Tajik State University</span>
+              <span>Field of study: Planning and Economics</span>
+              <span>Dates: 1985–1992</span>
+            </S.Education>
           </div>
 
           <Tilt

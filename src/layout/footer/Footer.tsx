@@ -34,7 +34,7 @@ export const Footer: React.FC = () => {
             );
           })}
         </S.SocialList>
-        <S.Copyright>© 2023 Farhod Mukhamadiev, All Rights Reserved.</S.Copyright>
+        <S.Copyright>© 2023 Farhod Muhamadiev, All Rights Reserved.</S.Copyright>
       </FlexWrapper>
     </S.Footer>
   );
